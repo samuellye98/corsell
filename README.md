@@ -26,9 +26,9 @@ expo start
 ```
 
 ### Screenshots
+[<img src="./assets/images/readme/readme1.jpg" width="250"/>](./assets/images/readme/readme1.jpg)
+[<img src="./assets/images/readme/readme5.jpg" width="250"/>](./assets/images/readme/readme5.jpg)
+[<img src="./assets/images/readme/readme2.jpg" width="250"/>](./assets/images/readme/readme2.jpg)
+[<img src="./assets/images/readme/readme3.jpg" width="250"/>](./assets/images/readme/readme3.jpg)
+[<img src="./assets/images/readme/readme4.jpg" width="250"/>](./assets/images/readme/readme4.jpg)
 
-![Splash Screen](./assets/images/readme/readme1.jpg)
-![Start Screen](./assets/images/readme/readme5.jpg)
-![Login Screen](./assets/images/readme/readme2.jpg)
-![Main Screen](./assets/images/readme/readme3.jpg)
-![Upload Screen](./assets/images/readme/readme4.jpg)
