@@ -27,8 +27,8 @@ expo start
 
 ### Screenshots
 
-![Splash Screen]("./assets/images/readme/readme1.jpg")
-![Start Screen]("./assets/images/readme/readme5.jpg")
-![Login Screen]("./assets/images/readme/readme2.jpg")
-![Main Screen]("./assets/images/readme/readme3.jpg")
-![Upload Screen]("./assets/images/readme/readme4.jpg")
+![Splash Screen](./assets/images/readme/readme1.jpg)
+![Start Screen](./assets/images/readme/readme5.jpg)
+![Login Screen](./assets/images/readme/readme2.jpg)
+![Main Screen](./assets/images/readme/readme3.jpg)
+![Upload Screen](./assets/images/readme/readme4.jpg)
